@@ -1,0 +1,8 @@
+A. HTTP is the protocal used for viewing web pages on the internet.  The “Client” in a  connection is the computer web addresses used by http to view the web pages 
+and the “Server” is the computer that is “listening” for calls to come and direct it.
+b. it encrypts the data that is being retrieved by http and uses encryption algorithms to scramble the data thats being transferred.
+5. a.  Not securing your web browser can lead quickly to a variety of computer problems caused by anything from spyware being installed without your knowledge to 
+intruders taking control of your computer.
+b. One problem with using ActiveX in a web browser is that it greatly increases the attack surface, or “attackability,” of a system. Installing any Windows application 
+introduces the possibility of new ActiveX controls being installed. Vulnerabilities in ActiveX objects may be exploited via Internet Explorer, even if the object was 
+never designed to be used in a web browser
